@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8D52424-4FE4-47B8-9545-DE156C761795</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E59B2EE54580678E2A2EFACB34F7578A4E99A5A2</key>
+		<string>https://github.com/danschnabel/Activity-Indicator-SchnabelOne.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ActivityTester.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E59B2EE54580678E2A2EFACB34F7578A4E99A5A2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danschnabel/Activity-Indicator-SchnabelOne.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E59B2EE54580678E2A2EFACB34F7578A4E99A5A2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E59B2EE54580678E2A2EFACB34F7578A4E99A5A2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Activity%20Indicator%20Snowman</string>
+		</dict>
+	</array>
+</dict>
+</plist>
